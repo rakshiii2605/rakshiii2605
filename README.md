@@ -3,7 +3,7 @@ Welcome to my little corner of the internet 💫  <br>
 🎓 I’m a student, a tech enthusiast, and someone who loves learning and building cool things with code.<br>
 💻 I enjoy working on fun projects that mix tech + design  <br>
 ✨ I love organizing, planning, and learning something new every day  <br>
-🌷Always striving to be that smart, kind, well-put-together girl <br><br>---<br><br>
+🌷Always striving to be that smart, kind, well-put-together girl <br><br>
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
